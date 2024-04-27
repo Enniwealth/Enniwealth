@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devphrasex&label=Profile%20views&color=0e75b6&style=flat" alt="devphrasex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devphrasex" alt="devphrasex" /></a> </p>
+<p align="left"> <a href=""><img src="" alt="devphrasex" /></a> </p>
 
 - 🌱 I’m currently exploring **Mobile App Development with React Native**
 
