@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devphrasex&label=Profile%20views&color=0e75b6&style=flat" alt="devphrasex" /> </p>
 
-<p align="left"> <a href=""><img src="" alt="devphrasex" /></a> </p>
+<p align="left"> <a href=""><img src="" alt="Enniwealth" /></a> </p>
 
 - 🌱 I’m currently exploring **Mobile App Development with React Native**
 
