@@ -12,6 +12,7 @@
 
 - Telegram: [@Henny_Wealth](https://t.me/Henny_Wealth)
 - Discord: 0xhennywealth
+- CodeHawks: [@Frontrunner](https://profiles.cyfrin.io/u/frontrunner)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,10 +29,10 @@
 
 |                                   Contest                                    | High Risk | Medium Risk | Low Risk |                                                 Security Report                                                 | Ranking | Team Name |
 | :--------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------------------------------------------: | :-----: | :-------: |
-| [Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz) |     1     |      0      |    -     |   [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%233_-Thunder-Loan.md)    |    -    |           |
+| [Tswap](https://codehawks.cyfrin.io/c/2024-06-t-swap) |     1     |      0      |    -     |   [Report](https://codehawks.cyfrin.io/c/2024-06-t-swap/results?lt=contest&sc=reward&sj=reward&page=1&t=report)    |    -    |           |
 |      [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy)       |     -     |      -      |    1     | [Report](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |  -   |           |
-|             [Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros)             |     2     |      1      |    2     |  [Report](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&sc=reward&sj=reward&page=1&t=report)   |  45th   |           |
-|             [Predicter](https://codehawks.cyfrin.io/c/2024-08-tadle)  |   3       |     2    |      0     | [Report](https://codehawks.cyfrin.io/c/2024-08-tadle/results?t=report)  |    28th       |
+|             [Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros)             |     2     |      1      |    2     |  [Report](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&sc=reward&sj=reward&page=1&t=report)   |  52nd   |           |
+|             [Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predicter)  |   3       |     2    |      0     | [Report](https://codehawks.cyfrin.io/c/2024-07-the-predicter/results?t=report&page=1)  |    28th       |
 
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
