@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Eniola</h1>
-<h3 align="center">I am a dedicated Blockchain developer and smart contract security researcher. As a blockchain developer and security researcher, my mission is to strengthen and secure decentralized ecosystems by uncovering and addressing vulnerabilities before they can be exploited. With deep expertise in smart contract auditing, I deliver tailored security solutions to protect your projects. Whether you need to design secure smart contracts, fortify your protocols, or ensure a safe launch, I’m here to help make your smart contracts resilient and secure.. </h3>
+<h4 align="center">I am a dedicated Blockchain developer and smart contract security researcher. As a blockchain developer and security researcher, my mission is to strengthen and secure decentralized ecosystems by uncovering and addressing vulnerabilities before they can be exploited. With deep expertise in smart contract auditing, I deliver tailored security solutions to protect your projects. Whether you need to design secure smart contracts, fortify your protocols, or ensure a safe launch, I’m here to help make your smart contracts resilient and secure. </h4>
 
-<p align="left"> <a href=""><img src="" alt="Enniwealth" /></a> </p>
 
-- 🌱 I’m currently focused on **Creating innovative solutions and enhancing the security of Web3 and DeFi ecosystems. Actively competing in auditing protocols across leading platforms like Code4rena, Sherlock, Codehawks, Cantina, and Immunefi.**
+
+- 🌱 I’m currently focused on **Building innovative solutions and enhancing the security of Web3 and DeFi ecosystems. Actively competing in auditing protocols across leading platforms like Code4rena, Sherlock, Codehawks, Cantina, and Immunefi.**
 
 - 💬 Ask me about **Javascript, Ethereum, EVM, foundry, Nodejs, Python, Solidity**
 
