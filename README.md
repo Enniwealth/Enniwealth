@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently focused on **Building innovative solutions and enhancing the security of Web3 and DeFi ecosystems. Actively competing in auditing protocols across leading platforms like Code4rena, Sherlock, Codehawks, Cantina, and Immunefi.**
+- 🌱 I’m currently focused on **Building innovative solutions and enhancing the security of Web3 and DeFi ecosystems. Actively competing and auditing protocols across leading platforms like Code4rena, Sherlock, Codehawks, Cantina, and Immunefi.**
 
 - 💬 Ask me about **Javascript, Ethereum, EVM, foundry, Nodejs, Python, Solidity**
 
