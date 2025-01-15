@@ -45,4 +45,8 @@
 
 |                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking | Team Name |
 | :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
-| [MoonUp Protocol](https://github.com/MoonUpMeme/MoonUp_protocol) |     5     |      -      | [coming soon]() |       |     10th    |
+| [MoonUp Protocol](https://github.com/MoonUpMeme/MoonUp_protocol) |     5     |      -      | [coming soon]() |       |     -    |
+
+ :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
+| [Lode_Protocol](https://github.com/GuildAudits/Lode) |     3     |      -      | [coming soon]() |       |     -    |
+
