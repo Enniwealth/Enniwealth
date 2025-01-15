@@ -43,10 +43,8 @@
 
 # Private Contests / Audits
 
-|                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking | Team Name |
-| :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
-| [MoonUp Protocol](https://github.com/MoonUpMeme/MoonUp_protocol) |     5     |      -      | [coming soon]() |       |     -    |
-
- :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
-| [Lode_Protocol](https://github.com/GuildAudits/Lode) |     3     |      -      | [coming soon]() |       |     -    |
-
+| **Protocol** | **High** | **Medium** | **Low** | **Audit Report** | **Private Audit** |
+|--------------|:--------:|:----------:|:-------:|:----------------:|:----------------:|
+| [MoonUp Protocol](https://github.com/MoonUpMeme/MoonUp_protocol) | 5 | - | - | [Coming Soon]() | ✅ |
+| [Lode Protocol](https://github.com/GuildAudits/Lode) | 1 | 3 | - | [Coming Soon]() | ✅ |
+| [Pody Network](https://github.com/PodyNetwork/contracts) | 0 | 3 | - | [Coming Soon]() | ✅ |
