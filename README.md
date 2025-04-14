@@ -41,10 +41,21 @@
 | :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
 | [collar-core Protocol](https://cantina.xyz/competitions/050711ca-a6d1-4fdd-9f94-3816233c1bd5) |     3   |      -      | [coming soon](https://cantina.xyz/) |   10th    |     -    |
 
+
+## <img src="https://camo.githubusercontent.com/0e909f76794e9bfaa4e51b09ccc216c6527dbd0eb7dee6c05871f4541393fd98/68747470733a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f737a3d363426646f6d61696e5f75726c3d68747470733a2f2f6175646974732e736865726c6f636b2e78797a2f" width=27 height=27> Sherlock
+
+|                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking |
+| :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: |
+| [SymmIo](https://audits.sherlock.xyz/contests/838) |     0     |      1      | [Report](https://audits.sherlock.xyz/contests/838/report) |   18th    |
+
+
+
+
+
 # Private Contests / Audits
 
 | **Protocol** | **High** | **Medium** | **Low** | **Audit Report** | **Private Audit** |
 |--------------|:--------:|:----------:|:-------:|:----------------:|:----------------:|
 | [MoonUp Protocol](https://github.com/MoonUpMeme/MoonUp_protocol) | 5 | - | - | [Coming Soon]() | ✅ |
-| [Lode Protocol](https://github.com/GuildAudits/Lode) | 1 | 3 | - | [Coming Soon]() | ✅ |
-| [Pody Network](https://github.com/PodyNetwork/contracts) | 0 | 3 | - | [Coming Soon]() | ✅ |
+| [Lode Protocol](https://github.com/GuildAudits/Lode) | 1 | 3 | - | [Audit Report](https://drive.google.com/drive/u/0/folders/1z9YBmZriG3cAIgokxuZiO-cs0LITnZeM) | ✅ |
+| [Pody Network](https://github.com/PodyNetwork/contracts) | 0 | 3 | - | [Audit Report](https://drive.google.com/drive/u/0/folders/1z9YBmZriG3cAIgokxuZiO-cs0LITnZeM) | ✅ |
