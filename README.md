@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Frontrunner </h1>
 
-<h4 align="center">I am a dedicated Blockchain Engineer and Smart Contract Security Researcher. As a blockchain developer. My mission is to build and secure decentralized ecosystems by uncovering and addressing vulnerabilities before they can be exploited. With deep expertise in smart contract auditing, I deliver tailored security solutions to protect your projects. Whether you need to design secure smart contracts, fortify your protocols, or ensure a safe launch, I’m here to help make your smart contracts resilient and secure. </h4>
+<h4 align="">I am a dedicated Blockchain Engineer and Smart Contract Security Researcher. My mission is to build and secure decentralized ecosystems by uncovering and addressing vulnerabilities before they can be exploited. With deep expertise in smart contract auditing, I deliver tailored security solutions to protect your projects. Whether you need to design secure smart contracts, fortify your protocols, or ensure a safe launch, I’m here to help make your smart contracts resilient and secure. </h4>
 
 
 
