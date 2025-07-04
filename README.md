@@ -37,12 +37,6 @@ My mission is to strengthen the foundations of decentralized ecosystems by proac
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac)                           |     4     |      1      |    2     | [Report](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=1&sc=reward&sj=reward&t=report)     |    -    |           |
 
 
-## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
-
-|                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking | Team Name |
-| :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
-|  |     -   |      -      | [coming soon](https://cantina.xyz/) |   -    |     -    |
-
 
 ## <img src="https://camo.githubusercontent.com/0e909f76794e9bfaa4e51b09ccc216c6527dbd0eb7dee6c05871f4541393fd98/68747470733a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f737a3d363426646f6d61696e5f75726c3d68747470733a2f2f6175646974732e736865726c6f636b2e78797a2f" width=27 height=27> Sherlock
 
