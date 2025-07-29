@@ -51,7 +51,7 @@ My mission is to strengthen the foundations of decentralized ecosystems by proac
 |                                Contest                                | High risk | Medium risk | Low risk |                             Security Report                             | Ranking | Team Name |
 | :-------------------------------------------------------------------: | :-------: | :---------: | :------: | :---------------------------------------------------------------------: | :-----: | :-------: |
 | [Kinetiq](https://code4rena.com/audits/2025-04-kinetiq/)             |     0     |      0      |    2     | [Report](https://code4rena.com/audits/2025-04-kinetiq/)                |    -    |           |
-| [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) |     -     |      -      |    -     | [coming soon](https://code4rena.com/audits/2025-04-virtuals-protocol)       |    -    |           |
+| [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) |     -     |      1      |    2     | [Virtuals-Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol)       |    -    |           |
 
 
 # Private Contests / Audits
