@@ -52,6 +52,7 @@ My mission is to strengthen the foundations of decentralized ecosystems by proac
 | [Kinetiq](https://code4rena.com/audits/2025-04-kinetiq/)             |     0     |      0      |    2     | [Report](https://code4rena.com/audits/2025-04-kinetiq/)                |    -    |           |
 | [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) |     -     |      1      |    2     | [Virtuals-Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol)       |    -    |           |
 
+## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
 |                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking | Team Name |
 | :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
