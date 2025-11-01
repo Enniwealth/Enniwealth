@@ -53,6 +53,10 @@ My mission is to strengthen the foundations of decentralized ecosystems by proac
 | [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) |     -     |      1      |    2     | [Virtuals-Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol)       |    -    |           |
 
 
+|                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking | Team Name |
+| :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
+| [Telcoin-Network](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview) |     1     |      -      | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/findings) |   -    |     -     |
+
 # Private Contests / Audits
 
 | **Protocol** | **High** | **Medium** | **Low** | Audit Report | Private Audit |
