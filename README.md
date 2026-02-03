@@ -47,10 +47,11 @@ My mission is to strengthen the foundations of decentralized ecosystems by proac
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
-|                                Contest                                | High risk | Medium risk | Low risk |                             Security Report                             | Ranking | Team Name |
-| :-------------------------------------------------------------------: | :-------: | :---------: | :------: | :---------------------------------------------------------------------: | :-----: | :-------: |
-| [Kinetiq](https://code4rena.com/audits/2025-04-kinetiq/)             |     0     |      0      |    2     | [Report](https://code4rena.com/audits/2025-04-kinetiq/)                |    -    |           |
-| [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) |     -     |      1      |    2     | [Virtuals-Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol)       |    -    |           |
+| Contest | High risk | Medium risk | Low risk | Security Report | Ranking | Team Name |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Kinetiq](https://code4rena.com/audits/2025-04-kinetiq/) | 0 | 0 | 2 | [Report](https://code4rena.com/audits/2025-04-kinetiq/) | - | |
+| [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | - | 1 | 2 | [Virtuals-Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | - | |
+| [Covenant](https://code4rena.com/audits/2025-10-covenant) | 0 | 0 | 1 | [Report](https://code4rena.com/reports/2025-10-covenant) | - | |
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
@@ -59,10 +60,11 @@ My mission is to strengthen the foundations of decentralized ecosystems by proac
 | [Telcoin-Network](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview) |     1     |      -      | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/findings) |   -    |     -     |
 
 # Private Contests / Audits
-
-| **Protocol** | **High** | **Medium** | **Low** | Audit Report | Private Audit |
-|--------------|:--------:|:----------:|:-------:|:-------------:|:-------------:|
-| [MoonUp Protocol](https://github.com/MoonUpMeme/MoonUp_protocol) | 5 | 2 | 4 | [Coming Soon]() | ✅ |
-| [Lode Protocol](https://github.com/GuildAudits/Lode) | 1 | 3 | - | [Audit Report](https://drive.google.com/file/d/10akJ-cn-xCMn2X2p8IglnEQTVTKriE2e/view?usp=sharing) | ✅ |
-| [Pody Network](https://github.com/PodyNetwork/contracts) | 0 | 3 | - | [Audit Report](https://drive.google.com/file/d/1yjKI0RF4kf7W5EGwsC35iel9vfXyOqcx/view?usp=sharing) | ✅ |
-| [Pathway](https://drive.google.com/file/d/1xkAYVyLrfH5i9OwgNz7hYuW_7mRse197/view?usp=sharing) | - | 2 | 2 | [Audit Report](https://drive.google.com/file/d/1xkAYVyLrfH5i9OwgNz7hYuW_7mRse197/view?usp=sharing) | ✅ |
+| **Protocol** | **Critical** | **High** | **Medium** | **Low** | **Audit Report** | **Private Audit** |
+|--------------|:------------:|:--------:|:----------:|:-------:|:----------------:|:-----------------:|
+| **MoonUp Protocol** | - | 5 | 2 | 4 | [private] ✅ |
+| **Lode Protocol**| - | 1 | 3 | - | [Audit Report](https://github.com/GuildAudits/Audits/blob/main/LodeProtocol/LODE%20PROTOCOL%20AUDIT%20REPORT.pdf) | ✅ |
+| **Pody Network** | - | 0 | 3 | - | [Audit Report](https://github.com/GuildAudits/Audits/blob/main/PodyNetwork/PODY%20NETWORK%20AUDIT%20REPORT.pdf) | ✅ |
+| **Pathway** | - | - | 2 | 2 | [Audit Report](https://github.com/GuildAudits/Audits/blob/main/Pathway/MULTICALLWITHPERMIT%20FINAL%20AUDIT%20REPORT%20(1).pdf) | ✅ |
+| **Lunar Finance** | **4** | 2 | 1 | 3 | [Audit Report](https://github.com/GuildAudits/Audits/blob/main/LunarFinance/Lunar%20Finance%20Final%20report.pdf) | ✅ |
+| **Esusu Protocol** | - | 5 | 4 | 4 | [Audit Report](https://github.com/GuildAudits/Audits/blob/main/Esusu-Protocol/ESUSU%20FINAL%20AUDIT%20OFFICIAL%20REPORT.pdf.pdf) | ✅ |
