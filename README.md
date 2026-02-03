@@ -59,7 +59,7 @@ My mission is to strengthen the foundations of decentralized ecosystems by proac
 | :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
 | [Telcoin-Network](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview) |     1     |      -      | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/findings) |   -    |     -     |
 
-# Private Contests / Audits
+# Private Engagements / Audits
 | **Protocol** | **Critical** | **High** | **Medium** | **Low** | **Audit Report** | **Private Audit** |
 |--------------|:------------:|:--------:|:----------:|:-------:|:----------------:|:-----------------:|
 | **MoonUp Protocol** | - | 5 | 2 | 4 | [private] ✅ |
