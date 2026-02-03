@@ -62,7 +62,7 @@ My mission is to strengthen the foundations of decentralized ecosystems by proac
 # Private Engagements / Audits
 | **Protocol** | **Critical** | **High** | **Medium** | **Low** | **Audit Report** | **Private Audit** |
 |--------------|:------------:|:--------:|:----------:|:-------:|:----------------:|:-----------------:|
-| **MoonUp Protocol** | - | 5 | 2 | 4 | [private] ✅ |
+| **MoonUp Protocol** | - | 5 | 2 | 4 | N/A ✅ |
 | **Lode Protocol**| - | 1 | 3 | - | [Audit Report](https://github.com/GuildAudits/Audits/blob/main/LodeProtocol/LODE%20PROTOCOL%20AUDIT%20REPORT.pdf) | ✅ |
 | **Pody Network** | - | 0 | 3 | - | [Audit Report](https://github.com/GuildAudits/Audits/blob/main/PodyNetwork/PODY%20NETWORK%20AUDIT%20REPORT.pdf) | ✅ |
 | **Pathway** | - | - | 2 | 2 | [Audit Report](https://github.com/GuildAudits/Audits/blob/main/Pathway/MULTICALLWITHPERMIT%20FINAL%20AUDIT%20REPORT%20(1).pdf) | ✅ |
