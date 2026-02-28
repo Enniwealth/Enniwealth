@@ -59,6 +59,14 @@ My mission is to strengthen the foundations of decentralized ecosystems by proac
 | :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
 | [Telcoin-Network](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview) |     1     |      -      | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/findings) |   -    |     -     |
 
+## <img src="https://www.theblock.co/post/354815/immunefi-launches-all-stars-elite-whitehat-program-amid-record-bybit-hack-rising-onchain-losses/" width=27 height=27> Immunefi
+
+|                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking | Team Name |
+| :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
+| [Stargate](https://immunefi.com/audit-competition/audit-comp-vechain-stargate-hayabusa/information/) |     1     |      -      | [Report](https://drive.google.com/file/d/1w-tLKXJfnRN9OEbvBb4LsqPghxj_sLLr/view) |   -    |     -     |
+
+
+
 # Private Engagements / Audits
 | **Protocol** | **Critical** | **High** | **Medium** | **Low** | **Audit Report** | **Private Audit** |
 |--------------|:------------:|:--------:|:----------:|:-------:|:----------------:|:-----------------:|
