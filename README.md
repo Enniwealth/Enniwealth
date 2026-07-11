@@ -36,28 +36,32 @@ My mission is to strengthen the foundations of decentralized ecosystems by proac
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac)                           |     4     |      1      |    2     | [Report](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=1&sc=reward&sj=reward&t=report)     |    -    |           |
 
 
-
 ## <img src="https://camo.githubusercontent.com/0e909f76794e9bfaa4e51b09ccc216c6527dbd0eb7dee6c05871f4541393fd98/68747470733a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f737a3d363426646f6d61696e5f75726c3d68747470733a2f2f6175646974732e736865726c6f636b2e78797a2f" width=27 height=27> Sherlock
 
-|                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking |
-| :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: |
-| [SymmIo](https://audits.sherlock.xyz/contests/838)                                       |     0     |      1      | [Report](https://audits.sherlock.xyz/contests/838/report)                           |   18th  |
-| [Lend-V2](https://audits.sherlock.xyz/contests/908)                                      |     2     |      -      | [Report](https://audits.sherlock.xyz/contests/908)                                  |    -    |
-
+| Contest | High risk | Medium risk | Security Report | Ranking |
+| :------ | :-------: | :---------: | :-------------: | :-----: |
+| [SymmIo](https://audits.sherlock.xyz/contests/838) | 0 | 1 | [Report](https://audits.sherlock.xyz/contests/838/report) | 18th |
+| [Lend-V2](https://audits.sherlock.xyz/contests/908) | 2 | - | [Report](https://audits.sherlock.xyz/contests/908/report) | - |
+| [Fluid DEX v2](https://audits.sherlock.xyz/contests/1088) | 1 | - | [Report](https://audits.sherlock.xyz/contests/1088/report) | - |
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
 | Contest | High risk | Medium risk | Low risk | Security Report | Ranking | Team Name |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Kinetiq](https://code4rena.com/audits/2025-04-kinetiq/) | 0 | 0 | 2 | [Report](https://code4rena.com/audits/2025-04-kinetiq/) | - | |
-| [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | - | 1 | 2 | [Virtuals-Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | - | |
+| [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | 0 | 1 | 2 | [Report](https://code4rena.com/audits/2025-04-virtuals-protocol) | - | |
+| [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | 0 | 1 | 0 | [Report](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | - | |
+| [Jupiter Lend](https://code4rena.com/audits/2026-02-jupiter-lend) | 0 | 0 | 1 | [Report](https://code4rena.com/audits/2026-02-jupiter-lend) | - | |
 | [Covenant](https://code4rena.com/audits/2025-10-covenant) | 0 | 0 | 1 | [Report](https://code4rena.com/reports/2025-10-covenant) | - | |
+
+
 
 ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
-|                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking | Team Name |
-| :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
-| [Telcoin-Network](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview) |     1     |      -      | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/findings) |   -    |     -     |
+| Contest | High risk | Medium risk | Security Report | Ranking | Team Name |
+| :------ | :-------: | :---------: | :-------------: | :-----: | :-------: |
+| [Telcoin-Network](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview) | 1 | - | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/findings) | - | - |
+| [Revert Finance – StableSwap Hooks](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview) | 1 | 2 | [Report](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/findings) | - | - |   -    |     -     |
 
 ## <img src="https://www.theblock.co/post/354815/immunefi-launches-all-stars-elite-whitehat-program-amid-record-bybit-hack-rising-onchain-losses/" width=27 height=27> Immunefi
 
