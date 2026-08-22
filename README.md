@@ -14,7 +14,7 @@ I have worked with and contributed to teams and protocols including:
 - **Lunar Finance** — Backend & Blockchain Engineer
 - **Guild Audit** — Blockchain Security Researcher
 - **Pody / Pody Network** — Blockchain Engineer
-- **Paranax** — Blockchain Developer
+- **Paranax** — Systems & Engineering
 - **Flourish AI** — Systems & Engineering
 - **Venlopay** — Backend & Systems Engineering
 
