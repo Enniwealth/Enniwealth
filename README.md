@@ -1,19 +1,37 @@
 
-<h1 align="center">Hi 👋, I'm Frontrunner </h1>
+<h1 align="center">Hi 👋, I'm Frontrunner</h1>
 
-I am a Blockchain Engineer and Security Researcher with a background in backend engineering and systems design. I'm committed to building and securing decentralized systems across the Web3 spectrum from DeFi and GameFi to NFTs and tokenized real-world assets (RWAs).
-My mission is to strengthen the foundations of decentralized ecosystems by proactively identifying and mitigating vulnerabilities before they become threats. With hands-on experience in both developing secure smart contracts and auditing complex protocols, I bring a holistic approach to protocol security. Whether you're architecting new systems or preparing for launch, I deliver practical, high-impact security insights to help make your protocol robust, reliable, and resilient. </h4>
+<h3 align="center">
+Systems Architect • Backend & Blockchain Engineer • Security Researcher
+</h3>
 
+I am a systems-focused engineer with experience designing and building complex backend, blockchain, and decentralized infrastructure. My work sits at the intersection of **system architecture, backend engineering, distributed systems, blockchain protocol design, and security**.
 
+I approach engineering from a **systems design perspective first**—thinking about how components interact, where state lives, how systems scale, how failures propagate, and how architecture evolves as a product grows. From there, I translate those designs into reliable backend services, blockchain infrastructure, smart contracts, and decentralized protocols.
 
-- 🌱 I’m currently focused on **Building innovative solutions and enhancing the security of Web3 and DeFi ecosystems. Actively competing and auditing protocols across leading platforms like Code4rena, Sherlock, Codehawks, Cantina, and Immunefi.**
+I have worked with and contributed to teams and protocols including:
 
-- 💬 Ask me about **Javascript, Ethereum, EVM, Solana, foundry, Anchor, Nodejs, Python, Solidity**
+- **Lunar Finance** — Backend & Blockchain Engineer
+- **Guild Audit** — Blockchain Security Researcher
+- **Pody / Pody Network** — Blockchain Engineer
+- **Fluid DEX** — Protocol & Security Research
+- **Flourish AI** — Systems & Engineering
+- **Venlopay** — Backend & Systems Engineering
 
-- 📫 How to reach me **enikelvin5@gmail.com**
+My experience spans **DeFi, decentralized exchanges, NFTs, tokenized assets, blockchain infrastructure, backend systems, and emerging Web3 applications**. I enjoy working on problems that require more than writing isolated features—designing the architecture, defining system boundaries, modeling data and state transitions, building reliable infrastructure, and thinking through how a system behaves under real-world and adversarial conditions.
+
+Security is an important part of my engineering process. Alongside building systems, I have conducted security research and audits across complex protocols, identifying critical vulnerabilities and helping teams strengthen their systems before deployment. My background in both **protocol development and offensive security research** allows me to evaluate systems from two perspectives: how they are intended to work and how they can fail, break, or be exploited.
+
+My goal is to build and help lead **scalable, resilient, and secure technology systems**—from early-stage architecture and product infrastructure to complex decentralized protocols preparing for production.
+
+- 🌱 Currently focused on **system architecture, backend infrastructure, blockchain protocol design, and Web3 security**, with experience building and researching systems across **Lunar Finance, Guild Audit, Pody, Fluid DEX, Flourish AI, and Venlopay**.
+
+- 💬 Ask me about **System Design, Backend Architecture, Distributed Systems, Blockchain Protocol Design, Ethereum, EVM, Solana, Node.js, JavaScript, Python, Solidity, Foundry, and Anchor**
+
+- 📫 How to reach me: **enikelvin5@gmail.com**
 
 - Telegram: [@Henny_Wealth](https://t.me/Henny_Wealth)
-- Discord: 0xhennywealth
+- Discord: **0xhennywealth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
