@@ -24,7 +24,7 @@ Security is an important part of my engineering process. Alongside building syst
 
 My goal is to build and help lead **scalable, resilient, and secure technology systems**—from early-stage architecture and product infrastructure to complex decentralized protocols preparing for production.
 
-- 🌱 Currently focused on **system architecture, backend infrastructure, blockchain protocol design, and Web3 security**, with experience building and researching systems across **Lunar Finance, Guild Audit, Pody, Fluid DEX, Flourish AI, and Venlopay**.
+- 🌱 Currently focused on **system architecture, backend infrastructure, blockchain protocol design, and Web3 security.**
 
 - 💬 Ask me about **System Design, Backend Architecture, Distributed Systems, Blockchain Protocol Design, Ethereum, EVM, Solana, Node.js, JavaScript, Python, Solidity, Foundry, and Anchor**
 
