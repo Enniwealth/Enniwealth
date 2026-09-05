@@ -5,7 +5,7 @@
 Systems Architect • Backend & Blockchain Engineer • Security Researcher
 </h3>
 
-I am a systems-focused engineer with experience designing and building complex backend, blockchain, and decentralized infrastructure. My work sits at the intersection of **system architecture, backend engineering, distributed systems, blockchain protocol design, and security**.
+I am a systems-focused engineer with experience designing / building backend and blockchain infrastructure. My work sits at the intersection of **system architecture, backend engineering, distributed systems, blockchain protocol design, and security**.
 
 I approach engineering from a **systems design perspective first**—thinking about how components interact, where state lives, how systems scale, how failures propagate, and how architecture evolves as a product grows. From there, I translate those designs into reliable backend services, blockchain infrastructure, smart contracts, and decentralized protocols.
 
@@ -22,7 +22,7 @@ My experience spans **DeFi, decentralized exchanges, NFTs, tokenized assets, blo
 
 Security is an important part of my engineering process. Alongside building systems, I have conducted security research and audits across complex protocols, identifying critical vulnerabilities and helping teams strengthen their systems before deployment. My background in both **protocol development and offensive security research** allows me to evaluate systems from two perspectives: how they are intended to work and how they can fail, break, or be exploited.
 
-My goal is to build and help lead **scalable, resilient, and secure technology systems**—from early-stage architecture and product infrastructure to complex decentralized protocols preparing for production.
+My goal is to build and help lead **scalable, resilient, and secure technology systems**—from early-stage architecture and product infrastructure for teams.
 
 - 🌱 Currently focused on **system architecture, backend infrastructure, blockchain protocol design, and Web3 security.**
 
