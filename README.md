@@ -9,14 +9,14 @@ I am a systems-focused engineer with experience designing and building complex b
 
 I approach engineering from a **systems design perspective first**—thinking about how components interact, where state lives, how systems scale, how failures propagate, and how architecture evolves as a product grows. From there, I translate those designs into reliable backend services, blockchain infrastructure, smart contracts, and decentralized protocols.
 
-I have worked with and contributed to teams and protocols including:
+## Experience
 
-- **Lunar Finance** — Backend & Blockchain Engineer
-- **Guild Audit** — Blockchain Security Researcher
-- **Pody Network** — Blockchain Engineer
-- **Paranax** — Systems & Engineering
-- **Flourish AI** — Systems & Engineering
-- **Venlopay** — Backend & Systems Engineering
+- [**Lunar Finance**](https://lunarfinance.io) — Backend & Blockchain Engineer
+- [**Guild Audit**](https://guildaudits.com) — Blockchain Security Researcher
+- [**Pody Network**](https://pody.network/) — Blockchain Engineer
+- [**Paranax**](https://paranax.xyz) — Systems & Engineering
+- [**Flourish AI**](https://flourishfashion.xyz) — Systems & Engineering
+- [**Venlopay**](https://venlopay.xyz) — Backend & Systems Engineering
 
 My experience spans **DeFi, decentralized exchanges, NFTs, tokenized assets, blockchain infrastructure, backend systems, and emerging Web3 applications**. I enjoy working on problems that require more than writing isolated features—designing the architecture, defining system boundaries, modeling data and state transitions, building reliable infrastructure, and thinking through how a system behaves under real-world and adversarial conditions.
 
